@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(int argc, char* argv[]) {
-	printf("Hello World!\n");
+	printf("Byebye!\n");
 
 	for(int i = 0; i < argc; i++) {
 		printf("%s\n", argv[i]);
